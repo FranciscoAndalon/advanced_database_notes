@@ -1,4 +1,4 @@
-# Session – YYYY-MM-DD
+# Session – 2026-02-19
 
 ## Topics covered
 - Why databases use multiple tables
@@ -27,11 +27,11 @@
 - How do JOINs affect performance when tables get bigger?
 
 ## Related concepts
-- [INNER JOIN](../concepts/inner-join.md)
-- [LEFT JOIN](../concepts/left-join.md)
-- [FULL JOIN](../concepts/full-join.md)
-- [CROSS JOIN](../concepts/cross-join.md)
-- [SELF JOIN](../concepts/self-join.md)
+- [INNER JOIN](../concepts/session2/inner-join.md)
+- [LEFT JOIN](../concepts/session2/left-join.md)
+- [FULL JOIN](../concepts/session2/full-join.md)
+- [CROSS JOIN](../concepts/session2/cross-join.md)
+- [SELF JOIN](../concepts/session2/self-join.md)
 
 ## Resources used
 - See `resources/`

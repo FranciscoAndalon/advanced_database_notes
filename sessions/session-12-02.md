@@ -29,10 +29,10 @@
 - When should we be filtering in SQL and when in application code?
 
 ## Related concepts
-- [SQL Mental Model](../concepts/sql-mental-model.md)
-- [WHERE Clause](../concepts/where-clause.md)
-- [ORDER BY](../concepts/order-by.md)
-- [LIMIT & OFFSET](../concepts/limit-offset.md)
+- [SQL Mental Model](../concepts/session1/sql-mental-model.md)
+- [WHERE Clause](../concepts/session1/where-clause.md)
+- [ORDER BY](../concepts/session1/order-by.md)
+- [LIMIT & OFFSET](../concepts/session1/limit-offset.md)
 
 ## Resources used
 - See `resources/`
