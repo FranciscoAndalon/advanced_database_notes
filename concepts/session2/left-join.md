@@ -11,3 +11,4 @@ SELECT *
 FROM buildings b
 LEFT JOIN employees e
   ON b.name = e.building;
+  
