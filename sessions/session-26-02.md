@@ -29,11 +29,11 @@
 - Are rollups common in real projects or generally just for reports?
 
 ## Related concepts
-- GROUP BY￼
-- Aggregate Functions￼
-- COUNT and DISTINCT￼
-- NULLs in Aggregates￼
-- HAVING Clause￼
+- [GROUP BY](../concepts/group-by.md)
+- [Aggregate Functions](../concepts/aggregate-functions.md)
+- [COUNT and DISTINCT](../concepts/count-and-distinct.md)
+- [NULLs in Aggregates](../concepts/nulls-in-aggregates.md)
+- [HAVING Clause](../concepts/having-clause.md)
 
 ## Resources used
 - See `resources/`
